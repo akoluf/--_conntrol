@@ -1,0 +1,14 @@
+D:\GB\С#_conntrol\bin\Debug\net9.0\С#_conntrol.exe
+D:\GB\С#_conntrol\bin\Debug\net9.0\С#_conntrol.deps.json
+D:\GB\С#_conntrol\bin\Debug\net9.0\С#_conntrol.runtimeconfig.json
+D:\GB\С#_conntrol\bin\Debug\net9.0\С#_conntrol.dll
+D:\GB\С#_conntrol\bin\Debug\net9.0\С#_conntrol.pdb
+D:\GB\С#_conntrol\obj\Debug\net9.0\С#_conntrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\С#_conntrol\obj\Debug\net9.0\С#_conntrol.AssemblyInfoInputs.cache
+D:\GB\С#_conntrol\obj\Debug\net9.0\С#_conntrol.AssemblyInfo.cs
+D:\GB\С#_conntrol\obj\Debug\net9.0\С#_conntrol.csproj.CoreCompileInputs.cache
+D:\GB\С#_conntrol\obj\Debug\net9.0\С#_conntrol.dll
+D:\GB\С#_conntrol\obj\Debug\net9.0\refint\С#_conntrol.dll
+D:\GB\С#_conntrol\obj\Debug\net9.0\С#_conntrol.pdb
+D:\GB\С#_conntrol\obj\Debug\net9.0\С#_conntrol.genruntimeconfig.cache
+D:\GB\С#_conntrol\obj\Debug\net9.0\ref\С#_conntrol.dll
